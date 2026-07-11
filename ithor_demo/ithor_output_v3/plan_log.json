@@ -1,0 +1,70 @@
+{
+  "demo_type": "CoELA-style task decomposition and assignment prototype on iTHOR",
+  "important_note": "This is not the original CoELA algorithm. It is a small rule-based prototype for the middle presentation.",
+  "scene": "FloorPlan1",
+  "high_level_goal": "Find useful objects in the kitchen.",
+  "decomposition": [
+    {
+      "agent": 0,
+      "subtask": "Explore left area and observe candidate objects."
+    },
+    {
+      "agent": 1,
+      "subtask": "Explore right area and observe candidate objects."
+    }
+  ],
+  "agent_0_waypoints": [
+    {
+      "x": -1.25,
+      "y": 0.900999128818512,
+      "z": -1.75
+    },
+    {
+      "x": -0.25,
+      "y": 0.900999128818512,
+      "z": -1.25
+    },
+    {
+      "x": -1.25,
+      "y": 0.900999128818512,
+      "z": 0.75
+    },
+    {
+      "x": 0.25,
+      "y": 0.900999128818512,
+      "z": 1.5
+    },
+    {
+      "x": 0.0,
+      "y": 0.900999128818512,
+      "z": 2.25
+    }
+  ],
+  "agent_1_waypoints": [
+    {
+      "x": 2.0,
+      "y": 0.900999128818512,
+      "z": -2.0
+    },
+    {
+      "x": 0.75,
+      "y": 0.900999128818512,
+      "z": -1.25
+    },
+    {
+      "x": 1.25,
+      "y": 0.900999128818512,
+      "z": 0.0
+    },
+    {
+      "x": 0.25,
+      "y": 0.900999128818512,
+      "z": 1.25
+    },
+    {
+      "x": 0.25,
+      "y": 0.900999128818512,
+      "z": 2.0
+    }
+  ]
+}

@@ -1,0 +1,1781 @@
+[
+  {
+    "agent_id": 0,
+    "known_objects": [
+      {
+        "objectId": "Mug|-01.76|+00.90|-00.62",
+        "objectType": "Mug",
+        "name": "Mug_e7fad100",
+        "pickupable": true,
+        "receptacle": true,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": true,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.761,
+          "y": 0.9,
+          "z": -0.621
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2414904
+      },
+      {
+        "objectId": "Apple|-00.47|+01.15|+00.48",
+        "objectType": "Apple",
+        "name": "Apple_3fef4551",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": true,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -0.465,
+          "y": 1.151,
+          "z": 0.476
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2414925
+      },
+      {
+        "objectId": "Cup|+00.37|+01.64|-02.58",
+        "objectType": "Cup",
+        "name": "Cup_4c1ceda2",
+        "pickupable": true,
+        "receptacle": true,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": true,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.371,
+          "y": 1.645,
+          "z": -2.579
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2414927
+      },
+      {
+        "objectId": "Bowl|+00.27|+01.10|-00.75",
+        "objectType": "Bowl",
+        "name": "Bowl_208f368b",
+        "pickupable": true,
+        "receptacle": true,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": true,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.273,
+          "y": 1.101,
+          "z": -0.753
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2414932
+      },
+      {
+        "objectId": "Plate|+00.96|+01.65|-02.61",
+        "objectType": "Plate",
+        "name": "Plate_82b647b0",
+        "pickupable": true,
+        "receptacle": true,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.956,
+          "y": 1.646,
+          "z": -2.606
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2414935
+      },
+      {
+        "objectId": "Bread|-00.52|+01.17|-00.03",
+        "objectType": "Bread",
+        "name": "Bread_c6b4566e",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": true,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -0.522,
+          "y": 1.17,
+          "z": -0.028
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.241494
+      },
+      {
+        "objectId": "Tomato|-00.39|+01.14|-00.81",
+        "objectType": "Tomato",
+        "name": "Tomato_caaae6b0",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": true,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -0.385,
+          "y": 1.137,
+          "z": -0.812
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2414944
+      },
+      {
+        "objectId": "Potato|-01.66|+00.93|-02.15",
+        "objectType": "Potato",
+        "name": "Potato_4dee147d",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": true,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.656,
+          "y": 0.933,
+          "z": -2.151
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409774
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94",
+        "objectType": "Lettuce",
+        "name": "Lettuce_2d8f3ab9",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": true,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.807,
+          "y": 0.974,
+          "z": -0.943
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2414951
+      },
+      {
+        "objectId": "Bottle|+01.54|+00.89|-02.54",
+        "objectType": "Bottle",
+        "name": "Bottle_4e73f712",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": true,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 1.54,
+          "y": 0.886,
+          "z": -2.54
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2414956
+      },
+      {
+        "objectId": "Book|+00.15|+01.10|+00.62",
+        "objectType": "Book",
+        "name": "Book_e5ef3174",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.155,
+          "y": 1.099,
+          "z": 0.617
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2414958
+      },
+      {
+        "objectId": "ButterKnife|-00.41|+01.11|-00.46",
+        "objectType": "ButterKnife",
+        "name": "ButterKnife_4ae287b7",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -0.412,
+          "y": 1.105,
+          "z": -0.462
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2414963
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94|LettuceSliced_0",
+        "objectType": "LettuceSliced",
+        "name": "Lettuce_1_Slice_1",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.867,
+          "y": 0.964,
+          "z": -0.955
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409786
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94|LettuceSliced_1",
+        "objectType": "LettuceSliced",
+        "name": "Lettuce_1_Slice_2",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.797,
+          "y": 0.969,
+          "z": -0.939
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409793
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94|LettuceSliced_2",
+        "objectType": "LettuceSliced",
+        "name": "Lettuce_1_Slice_3",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.776,
+          "y": 0.969,
+          "z": -0.935
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409795
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94|LettuceSliced_3",
+        "objectType": "LettuceSliced",
+        "name": "Lettuce_1_Slice_4",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.754,
+          "y": 0.975,
+          "z": -0.93
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.14098
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94|LettuceSliced_4",
+        "objectType": "LettuceSliced",
+        "name": "Lettuce_1_Slice_5",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.732,
+          "y": 0.971,
+          "z": -0.925
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409802
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94|LettuceSliced_5",
+        "objectType": "LettuceSliced",
+        "name": "Lettuce_1_Slice_6",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.712,
+          "y": 0.969,
+          "z": -0.921
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409805
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94|LettuceSliced_6",
+        "objectType": "LettuceSliced",
+        "name": "Lettuce_1_Slice_7",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.695,
+          "y": 0.963,
+          "z": -0.917
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.140981
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94|LettuceSliced_7",
+        "objectType": "LettuceSliced",
+        "name": "Lettuce_1_Slice_8",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.675,
+          "y": 0.954,
+          "z": -0.911
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409812
+      },
+      {
+        "objectId": "PaperTowelRoll|-02.06|+01.01|-00.81",
+        "objectType": "PaperTowelRoll",
+        "name": "PaperTowelRoll_511cdc3f",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -2.063,
+          "y": 1.007,
+          "z": -0.815
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409814
+      },
+      {
+        "objectId": "SoapBottle|-01.99|+00.90|-02.03",
+        "objectType": "SoapBottle",
+        "name": "SoapBottle_4540124e",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.991,
+          "y": 0.9,
+          "z": -2.032
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.140982
+      }
+    ],
+    "known_receptacles": [
+      {
+        "objectId": "CounterTop|+00.69|+00.95|-02.48",
+        "objectType": "CounterTop",
+        "name": "CounterTop_2fe78146",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.693,
+          "y": 0.946,
+          "z": -2.484
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.140983
+      },
+      {
+        "objectId": "CounterTop|-00.08|+01.15|00.00",
+        "objectType": "CounterTop",
+        "name": "CounterTop_203f0cf4",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -0.079,
+          "y": 1.147,
+          "z": -0.001
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409836
+      },
+      {
+        "objectId": "CounterTop|-01.87|+00.95|-01.21",
+        "objectType": "CounterTop",
+        "name": "CounterTop_978a4b41",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.868,
+          "y": 0.947,
+          "z": -1.206
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.140984
+      },
+      {
+        "objectId": "Bowl|+00.27|+01.10|-00.75",
+        "objectType": "Bowl",
+        "name": "Bowl_208f368b",
+        "pickupable": true,
+        "receptacle": true,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": true,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.273,
+          "y": 1.101,
+          "z": -0.753
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409843
+      },
+      {
+        "objectId": "Plate|+00.96|+01.65|-02.61",
+        "objectType": "Plate",
+        "name": "Plate_82b647b0",
+        "pickupable": true,
+        "receptacle": true,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.956,
+          "y": 1.646,
+          "z": -2.606
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409845
+      }
+    ],
+    "known_interactables": [
+      {
+        "objectId": "CoffeeMachine|-01.98|+00.90|-00.19",
+        "objectType": "CoffeeMachine",
+        "name": "CoffeeMachine_19c6af8e",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": true,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.978,
+          "y": 0.9,
+          "z": -0.189
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.140986
+      },
+      {
+        "objectId": "Toaster|-01.84|+00.90|+00.13",
+        "objectType": "Toaster",
+        "name": "Toaster_f30a9b32",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": true,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.835,
+          "y": 0.9,
+          "z": 0.134
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2414997
+      },
+      {
+        "objectId": "Cabinet|-01.85|+02.02|+00.38",
+        "objectType": "Cabinet",
+        "name": "Cabinet_83d77a74",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.85,
+          "y": 2.015,
+          "z": 0.38
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2415
+      },
+      {
+        "objectId": "Fridge|-02.10|+00.00|+01.07",
+        "objectType": "Fridge",
+        "name": "Fridge_e92350c6",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -2.097,
+          "y": 0.0,
+          "z": 1.072
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448136.2415001
+      },
+      {
+        "objectId": "Faucet|-02.15|+00.91|-01.50",
+        "objectType": "Faucet",
+        "name": "Faucet_1000141d",
+        "pickupable": false,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": true,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -2.151,
+          "y": 0.906,
+          "z": -1.499
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409853
+      },
+      {
+        "objectId": "Cabinet|-01.55|+00.50|-01.97",
+        "objectType": "Cabinet",
+        "name": "Cabinet_4223545f",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.55,
+          "y": 0.495,
+          "z": -1.965
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783448314.1409864
+      }
+    ],
+    "held_objects": [
+      "Lettuce|-01.81|+00.97|-00.94"
+    ],
+    "message_history": [
+      {
+        "agent_id": 0,
+        "round": 1,
+        "message": "Agent 0: I will fill the Mug with water using the faucet, then deliver it to the CounterTop.",
+        "target_object_id": "Mug|-01.76|+00.90|-00.62",
+        "target_object_type": "Mug",
+        "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+        "destination_receptacle_type": "CounterTop",
+        "confidence": 0.8,
+        "source": "heuristic",
+        "llm_error": "ValueError('No JSON object found in LLM output: ')",
+        "scenario_constraints_applied": true,
+        "from": 0
+      },
+      {
+        "agent_id": 1,
+        "round": 1,
+        "message": "Agent 1: I will slice the Lettuce and deliver it to the CounterTop while you handle the water.",
+        "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "target_object_type": "Lettuce",
+        "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+        "destination_receptacle_type": "CounterTop",
+        "primitive_actions": [
+          "slice",
+          "putObject"
+        ],
+        "confidence": 0.0,
+        "source": "ollama:qwen3:8b",
+        "scenario_constraints_applied": true,
+        "from": 1
+      }
+    ],
+    "action_history": [
+      {
+        "agent_id": 0,
+        "module": "execution",
+        "action": "navigate_to_object",
+        "target_object_id": "Mug|-01.76|+00.90|-00.62",
+        "target_object_type": "Mug",
+        "success": true,
+        "agent_position": {
+          "x": -1.25,
+          "y": 0.900999128818512,
+          "z": -0.5
+        },
+        "source_plan": {
+          "agent_id": 0,
+          "target_object_id": "Mug|-01.76|+00.90|-00.62",
+          "target_object_type": "Mug",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Pick up the Mug, turn on the faucet, fill it with water, turn the faucet off, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "pickup_object",
+            "navigate_to_interactable",
+            "toggle_object_on",
+            "fill_object_with_liquid",
+            "toggle_object_off",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      },
+      {
+        "agent_id": 0,
+        "module": "execution",
+        "action": "pickup_object",
+        "target_object_id": "Mug|-01.76|+00.90|-00.62",
+        "target_object_type": "Mug",
+        "original_target_object_id": "Mug|-01.76|+00.90|-00.62",
+        "original_target_object_type": "Mug",
+        "success": true,
+        "errorMessage": "",
+        "source_plan": {
+          "agent_id": 0,
+          "target_object_id": "Mug|-01.76|+00.90|-00.62",
+          "target_object_type": "Mug",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Pick up the Mug, turn on the faucet, fill it with water, turn the faucet off, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "pickup_object",
+            "navigate_to_interactable",
+            "toggle_object_on",
+            "fill_object_with_liquid",
+            "toggle_object_off",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      },
+      {
+        "agent_id": 0,
+        "module": "execution",
+        "action": "navigate_to_interactable",
+        "target_object_id": "Mug|-01.76|+00.90|-00.62",
+        "target_object_type": "Mug",
+        "interactable_object_id": "Faucet|-02.15|+00.91|-01.50",
+        "interactable_object_type": "Faucet",
+        "success": true,
+        "errorMessage": "",
+        "agent_position": {
+          "x": -1.25,
+          "y": 0.900999128818512,
+          "z": -1.5
+        },
+        "source_plan": {
+          "agent_id": 0,
+          "target_object_id": "Mug|-01.76|+00.90|-00.62",
+          "target_object_type": "Mug",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Pick up the Mug, turn on the faucet, fill it with water, turn the faucet off, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "pickup_object",
+            "navigate_to_interactable",
+            "toggle_object_on",
+            "fill_object_with_liquid",
+            "toggle_object_off",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      },
+      {
+        "agent_id": 0,
+        "module": "execution",
+        "action": "toggle_object_on",
+        "interactable_object_id": "Faucet|-02.15|+00.91|-01.50",
+        "interactable_object_type": "Faucet",
+        "success": true,
+        "errorMessage": "",
+        "source_plan": {
+          "agent_id": 0,
+          "target_object_id": "Mug|-01.76|+00.90|-00.62",
+          "target_object_type": "Mug",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Pick up the Mug, turn on the faucet, fill it with water, turn the faucet off, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "pickup_object",
+            "navigate_to_interactable",
+            "toggle_object_on",
+            "fill_object_with_liquid",
+            "toggle_object_off",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      },
+      {
+        "agent_id": 0,
+        "module": "execution",
+        "action": "fill_object_with_liquid",
+        "target_object_id": "Mug|-01.76|+00.90|-00.62",
+        "target_object_type": "Mug",
+        "fillLiquid": "water",
+        "success": true,
+        "errorMessage": "",
+        "source_plan": {
+          "agent_id": 0,
+          "target_object_id": "Mug|-01.76|+00.90|-00.62",
+          "target_object_type": "Mug",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Pick up the Mug, turn on the faucet, fill it with water, turn the faucet off, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "pickup_object",
+            "navigate_to_interactable",
+            "toggle_object_on",
+            "fill_object_with_liquid",
+            "toggle_object_off",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      },
+      {
+        "agent_id": 0,
+        "module": "execution",
+        "action": "toggle_object_off",
+        "interactable_object_id": "Faucet|-02.15|+00.91|-01.50",
+        "interactable_object_type": "Faucet",
+        "success": true,
+        "errorMessage": "",
+        "source_plan": {
+          "agent_id": 0,
+          "target_object_id": "Mug|-01.76|+00.90|-00.62",
+          "target_object_type": "Mug",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Pick up the Mug, turn on the faucet, fill it with water, turn the faucet off, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "pickup_object",
+            "navigate_to_interactable",
+            "toggle_object_on",
+            "fill_object_with_liquid",
+            "toggle_object_off",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      },
+      {
+        "agent_id": 0,
+        "module": "execution",
+        "action": "navigate_to_receptacle",
+        "target_object_id": "Mug|-01.76|+00.90|-00.62",
+        "target_object_type": "Mug",
+        "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+        "destination_receptacle_type": "CounterTop",
+        "success": false,
+        "agent_position": {
+          "x": -1.0,
+          "y": 0.900999128818512,
+          "z": 0.0
+        },
+        "source_plan": {
+          "agent_id": 0,
+          "target_object_id": "Mug|-01.76|+00.90|-00.62",
+          "target_object_type": "Mug",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Pick up the Mug, turn on the faucet, fill it with water, turn the faucet off, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "pickup_object",
+            "navigate_to_interactable",
+            "toggle_object_on",
+            "fill_object_with_liquid",
+            "toggle_object_off",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      },
+      {
+        "agent_id": 0,
+        "module": "execution",
+        "action": "put_object",
+        "target_object_id": "Mug|-01.76|+00.90|-00.62",
+        "target_object_type": "Mug",
+        "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+        "destination_receptacle_type": "CounterTop",
+        "success": true,
+        "errorMessage": "",
+        "source_plan": {
+          "agent_id": 0,
+          "target_object_id": "Mug|-01.76|+00.90|-00.62",
+          "target_object_type": "Mug",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Pick up the Mug, turn on the faucet, fill it with water, turn the faucet off, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "pickup_object",
+            "navigate_to_interactable",
+            "toggle_object_on",
+            "fill_object_with_liquid",
+            "toggle_object_off",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      }
+    ],
+    "current_plan": {
+      "agent_id": 0,
+      "target_object_id": "Mug|-01.76|+00.90|-00.62",
+      "target_object_type": "Mug",
+      "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+      "destination_receptacle_type": "CounterTop",
+      "high_level_plan": "Pick up the Mug, turn on the faucet, fill it with water, turn the faucet off, then deliver it to the CounterTop.",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object",
+        "navigate_to_interactable",
+        "toggle_object_on",
+        "fill_object_with_liquid",
+        "toggle_object_off",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b+scenario_constraints"
+    }
+  },
+  {
+    "agent_id": 1,
+    "known_objects": [
+      {
+        "objectId": "Mug|-01.76|+00.90|-00.62",
+        "objectType": "Mug",
+        "name": "Mug_e7fad100",
+        "pickupable": true,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": true,
+        "isFilledWithLiquid": true,
+        "fillLiquid": "water",
+        "position": {
+          "x": 0.355,
+          "y": 1.107,
+          "z": 0.252
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410577
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94",
+        "objectType": "Lettuce",
+        "name": "Lettuce_2d8f3ab9",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": true,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.807,
+          "y": 0.974,
+          "z": -0.943
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448136.2415864
+      },
+      {
+        "objectId": "DishSponge|-01.94|+00.75|-01.71",
+        "objectType": "DishSponge",
+        "name": "DishSponge_2f93679b",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.938,
+          "y": 0.698,
+          "z": -1.711
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448136.2415867
+      },
+      {
+        "objectId": "PaperTowelRoll|-02.06|+01.01|-00.81",
+        "objectType": "PaperTowelRoll",
+        "name": "PaperTowelRoll_511cdc3f",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -2.063,
+          "y": 1.007,
+          "z": -0.815
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448136.2415872
+      },
+      {
+        "objectId": "Apple|-00.47|+01.15|+00.48",
+        "objectType": "Apple",
+        "name": "Apple_3fef4551",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": true,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -0.465,
+          "y": 1.151,
+          "z": 0.476
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410584
+      },
+      {
+        "objectId": "Bowl|+00.27|+01.10|-00.75",
+        "objectType": "Bowl",
+        "name": "Bowl_208f368b",
+        "pickupable": true,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": true,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.273,
+          "y": 1.101,
+          "z": -0.753
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410592
+      },
+      {
+        "objectId": "Bread|-00.52|+01.17|-00.03",
+        "objectType": "Bread",
+        "name": "Bread_c6b4566e",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": true,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -0.522,
+          "y": 1.17,
+          "z": -0.028
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410594
+      },
+      {
+        "objectId": "Tomato|-00.39|+01.14|-00.81",
+        "objectType": "Tomato",
+        "name": "Tomato_caaae6b0",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": true,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -0.385,
+          "y": 1.137,
+          "z": -0.812
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410599
+      },
+      {
+        "objectId": "Book|+00.15|+01.10|+00.62",
+        "objectType": "Book",
+        "name": "Book_e5ef3174",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.155,
+          "y": 1.099,
+          "z": 0.617
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.14106
+      },
+      {
+        "objectId": "ButterKnife|-00.41|+01.11|-00.46",
+        "objectType": "ButterKnife",
+        "name": "ButterKnife_4ae287b7",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -0.412,
+          "y": 1.105,
+          "z": -0.462
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410606
+      },
+      {
+        "objectId": "CreditCard|-00.46|+01.10|+00.87",
+        "objectType": "CreditCard",
+        "name": "CreditCard_5e829d70",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -0.464,
+          "y": 1.1,
+          "z": 0.865
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410608
+      }
+    ],
+    "known_receptacles": [
+      {
+        "objectId": "CounterTop|+00.69|+00.95|-02.48",
+        "objectType": "CounterTop",
+        "name": "CounterTop_2fe78146",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.693,
+          "y": 0.946,
+          "z": -2.484
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410613
+      },
+      {
+        "objectId": "CounterTop|-00.08|+01.15|00.00",
+        "objectType": "CounterTop",
+        "name": "CounterTop_203f0cf4",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -0.079,
+          "y": 1.147,
+          "z": -0.001
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410618
+      },
+      {
+        "objectId": "CounterTop|-01.87|+00.95|-01.21",
+        "objectType": "CounterTop",
+        "name": "CounterTop_978a4b41",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.868,
+          "y": 0.947,
+          "z": -1.206
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410625
+      },
+      {
+        "objectId": "Bowl|+00.27|+01.10|-00.75",
+        "objectType": "Bowl",
+        "name": "Bowl_208f368b",
+        "pickupable": true,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": true,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.273,
+          "y": 1.101,
+          "z": -0.753
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.141063
+      },
+      {
+        "objectId": "Plate|+00.96|+01.65|-02.61",
+        "objectType": "Plate",
+        "name": "Plate_82b647b0",
+        "pickupable": true,
+        "receptacle": true,
+        "visible": false,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.956,
+          "y": 1.646,
+          "z": -2.606
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410632
+      }
+    ],
+    "known_interactables": [
+      {
+        "objectId": "Faucet|-02.15|+00.91|-01.50",
+        "objectType": "Faucet",
+        "name": "Faucet_1000141d",
+        "pickupable": false,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": true,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -2.151,
+          "y": 0.906,
+          "z": -1.499
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448136.2415895
+      },
+      {
+        "objectId": "CoffeeMachine|-01.98|+00.90|-00.19",
+        "objectType": "CoffeeMachine",
+        "name": "CoffeeMachine_19c6af8e",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": true,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.978,
+          "y": 0.9,
+          "z": -0.189
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448136.2415898
+      },
+      {
+        "objectId": "Toaster|-01.84|+00.90|+00.13",
+        "objectType": "Toaster",
+        "name": "Toaster_f30a9b32",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": true,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.835,
+          "y": 0.9,
+          "z": 0.134
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448136.2415903
+      },
+      {
+        "objectId": "Cabinet|-01.85|+02.02|+00.38",
+        "objectType": "Cabinet",
+        "name": "Cabinet_83d77a74",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -1.85,
+          "y": 2.015,
+          "z": 0.38
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448136.2415905
+      },
+      {
+        "objectId": "Fridge|-02.10|+00.00|+01.07",
+        "objectType": "Fridge",
+        "name": "Fridge_e92350c6",
+        "pickupable": false,
+        "receptacle": true,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": -2.097,
+          "y": 0.0,
+          "z": 1.072
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448136.2415907
+      },
+      {
+        "objectId": "Book|+00.15|+01.10|+00.62",
+        "objectType": "Book",
+        "name": "Book_e5ef3174",
+        "pickupable": true,
+        "receptacle": false,
+        "visible": true,
+        "isPickedUp": false,
+        "toggleable": false,
+        "isToggled": false,
+        "sliceable": false,
+        "isSliced": false,
+        "canFillWithLiquid": false,
+        "isFilledWithLiquid": false,
+        "fillLiquid": null,
+        "position": {
+          "x": 0.155,
+          "y": 1.099,
+          "z": 0.617
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783448314.1410635
+      }
+    ],
+    "held_objects": [
+      "Lettuce|-01.81|+00.97|-00.94"
+    ],
+    "message_history": [
+      {
+        "agent_id": 0,
+        "round": 1,
+        "message": "Agent 0: I will fill the Mug with water using the faucet, then deliver it to the CounterTop.",
+        "target_object_id": "Mug|-01.76|+00.90|-00.62",
+        "target_object_type": "Mug",
+        "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+        "destination_receptacle_type": "CounterTop",
+        "confidence": 0.8,
+        "source": "heuristic",
+        "llm_error": "ValueError('No JSON object found in LLM output: ')",
+        "scenario_constraints_applied": true,
+        "from": 0
+      },
+      {
+        "agent_id": 1,
+        "round": 1,
+        "message": "Agent 1: I will slice the Lettuce and deliver it to the CounterTop while you handle the water.",
+        "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "target_object_type": "Lettuce",
+        "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+        "destination_receptacle_type": "CounterTop",
+        "primitive_actions": [
+          "slice",
+          "putObject"
+        ],
+        "confidence": 0.0,
+        "source": "ollama:qwen3:8b",
+        "scenario_constraints_applied": true,
+        "from": 1
+      }
+    ],
+    "action_history": [
+      {
+        "agent_id": 1,
+        "module": "execution",
+        "action": "navigate_to_object",
+        "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "target_object_type": "Lettuce",
+        "success": true,
+        "agent_position": {
+          "x": -1.25,
+          "y": 0.900999128818512,
+          "z": -1.0
+        },
+        "source_plan": {
+          "agent_id": 1,
+          "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+          "target_object_type": "Lettuce",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Navigate to the Lettuce, slice it, pick it up, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "slice_object",
+            "pickup_object",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      },
+      {
+        "agent_id": 1,
+        "module": "execution",
+        "action": "slice_object",
+        "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "target_object_type": "Lettuce",
+        "success": true,
+        "errorMessage": "",
+        "source_plan": {
+          "agent_id": 1,
+          "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+          "target_object_type": "Lettuce",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Navigate to the Lettuce, slice it, pick it up, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "slice_object",
+            "pickup_object",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      },
+      {
+        "agent_id": 1,
+        "module": "execution",
+        "action": "pickup_object",
+        "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "target_object_type": "Lettuce",
+        "original_target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "original_target_object_type": "Lettuce",
+        "success": true,
+        "errorMessage": "",
+        "source_plan": {
+          "agent_id": 1,
+          "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+          "target_object_type": "Lettuce",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Navigate to the Lettuce, slice it, pick it up, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "slice_object",
+            "pickup_object",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      },
+      {
+        "agent_id": 1,
+        "module": "execution",
+        "action": "navigate_to_receptacle",
+        "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "target_object_type": "Lettuce",
+        "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+        "destination_receptacle_type": "CounterTop",
+        "success": true,
+        "agent_position": {
+          "x": -1.0,
+          "y": 0.900999128818512,
+          "z": 0.0
+        },
+        "source_plan": {
+          "agent_id": 1,
+          "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+          "target_object_type": "Lettuce",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Navigate to the Lettuce, slice it, pick it up, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "slice_object",
+            "pickup_object",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      },
+      {
+        "agent_id": 1,
+        "module": "execution",
+        "action": "put_object",
+        "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "target_object_type": "Lettuce",
+        "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+        "destination_receptacle_type": "CounterTop",
+        "success": false,
+        "errorMessage": "No valid positions to place object found",
+        "source_plan": {
+          "agent_id": 1,
+          "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+          "target_object_type": "Lettuce",
+          "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+          "destination_receptacle_type": "CounterTop",
+          "high_level_plan": "Navigate to the Lettuce, slice it, pick it up, then deliver it to the CounterTop.",
+          "primitive_actions": [
+            "navigate_to_object",
+            "slice_object",
+            "pickup_object",
+            "navigate_to_receptacle",
+            "put_object"
+          ],
+          "source": "ollama:qwen3:8b+scenario_constraints"
+        }
+      }
+    ],
+    "current_plan": {
+      "agent_id": 1,
+      "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+      "target_object_type": "Lettuce",
+      "destination_receptacle_id": "CounterTop|-00.08|+01.15|00.00",
+      "destination_receptacle_type": "CounterTop",
+      "high_level_plan": "Navigate to the Lettuce, slice it, pick it up, then deliver it to the CounterTop.",
+      "primitive_actions": [
+        "navigate_to_object",
+        "slice_object",
+        "pickup_object",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b+scenario_constraints"
+    }
+  }
+]

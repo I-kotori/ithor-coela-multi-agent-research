@@ -1,0 +1,9 @@
+[info] pickupable candidates: 13
+[info] first candidates: Apple:Apple|-00.47|+01.15|+00.48, Mug:Mug|-01.76|+00.90|-00.62, Cup:Cup|+00.37|+01.64|-02.58, Bowl:Bowl|+00.27|+01.10|-00.75, Plate:Plate|+00.96|+01.65|-02.61
+[ok] prompt: /home/nabi/tools/ithor_demo/ithor_prompt_output/planner_prompt.txt
+[ok] planner json: /home/nabi/tools/ithor_demo/ithor_prompt_output/planner_output.json
+[ok] execution log: /home/nabi/tools/ithor_demo/ithor_prompt_output/execution_log.json
+[ok] frames: /home/nabi/tools/ithor_demo/ithor_prompt_output/frames
+[warn] imageio/imageio-ffmpeg not available; frames were saved.
+       Install with: python -m pip install imageio imageio-ffmpeg
+       Or create a video from: /home/nabi/tools/ithor_demo/ithor_prompt_output/frames/frame_%04d.jpg

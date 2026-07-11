@@ -1,0 +1,7 @@
+[ok] trace: /home/nabi/tools/ithor_demo/ithor_coela_lite_transport_output_v2/coela_lite_trace.json
+[ok] memories: /home/nabi/tools/ithor_demo/ithor_coela_lite_transport_output_v2/agent_memories.json
+[ok] prompts: /home/nabi/tools/ithor_demo/ithor_coela_lite_transport_output_v2/llm_prompts.json
+[ok] frames: /home/nabi/tools/ithor_demo/ithor_coela_lite_transport_output_v2/frames
+[ok] pickup success: 2/2
+[ok] put success: 2/2
+[ok] video: /home/nabi/tools/ithor_demo/ithor_coela_lite_transport_output_v2/ithor_coela_lite_demo.mp4

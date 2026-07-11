@@ -1,0 +1,13 @@
+cd ~/tools/ithor_demo
+conda activate ithor
+
+python -m py_compile ithor_prompt_planner_demo.py
+
+python ithor_prompt_planner_demo.py \
+  --output ithor_prompt_output \
+  --scene FloorPlan1 \
+  --task "Find and pick up two useful kitchen objects. Prefer an apple and a mug if available." \
+  --hold-frames 8 \
+  --fps 8 \
+  --overwrite \
+  2>&1 | tee ithor_prompt_run.log

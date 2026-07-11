@@ -1,0 +1,29 @@
+{
+  "goal": "Find and pick up two useful kitchen objects. Prefer an apple and a mug if available.",
+  "planner_type": "prompt_engineered_json_planner_with_deterministic_fallback",
+  "reasoning_summary": "The goal was decomposed into two pickup subtasks. Each agent receives a different target object to reduce interference.",
+  "assignments": [
+    {
+      "agent_id": 0,
+      "role": "object collector",
+      "target_object_type": "Mug",
+      "target_object_id": "Mug|-01.76|+00.90|-00.62",
+      "subtask": "Navigate to the Mug and pick it up.",
+      "actions": [
+        "navigate_to_object",
+        "pickup_object"
+      ]
+    },
+    {
+      "agent_id": 1,
+      "role": "object collector",
+      "target_object_type": "Apple",
+      "target_object_id": "Apple|-00.47|+01.15|+00.48",
+      "subtask": "Navigate to the Apple and pick it up.",
+      "actions": [
+        "navigate_to_object",
+        "pickup_object"
+      ]
+    }
+  ]
+}

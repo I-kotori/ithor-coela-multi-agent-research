@@ -1,0 +1,60 @@
+You are a CoELA-style coordinator for two embodied agents in AI2-THOR.
+
+High-level user goal:
+Find and pick up two useful kitchen objects. Prefer an apple and a mug if available.
+
+Available agents:
+- Agent 0
+- Agent 1
+
+Candidate pickupable objects:
+0. objectId=Apple|-00.47|+01.15|+00.48 | type=Apple | position=(-0.465, 1.151, 0.476) | visible=False
+1. objectId=Mug|-01.76|+00.90|-00.62 | type=Mug | position=(-1.761, 0.9, -0.621) | visible=False
+2. objectId=Cup|+00.37|+01.64|-02.58 | type=Cup | position=(0.371, 1.645, -2.579) | visible=False
+3. objectId=Bowl|+00.27|+01.10|-00.75 | type=Bowl | position=(0.273, 1.101, -0.753) | visible=False
+4. objectId=Plate|+00.96|+01.65|-02.61 | type=Plate | position=(0.956, 1.646, -2.606) | visible=False
+5. objectId=Bread|-00.52|+01.17|-00.03 | type=Bread | position=(-0.522, 1.17, -0.028) | visible=False
+6. objectId=Tomato|-00.39|+01.14|-00.81 | type=Tomato | position=(-0.385, 1.137, -0.812) | visible=False
+7. objectId=Potato|-01.66|+00.93|-02.15 | type=Potato | position=(-1.656, 0.933, -2.151) | visible=False
+8. objectId=Lettuce|-01.81|+00.97|-00.94 | type=Lettuce | position=(-1.807, 0.974, -0.943) | visible=False
+9. objectId=Bottle|+01.54|+00.89|-02.54 | type=Bottle | position=(1.54, 0.886, -2.54) | visible=False
+10. objectId=Knife|-01.70|+00.79|-00.22 | type=Knife | position=(-1.702, 0.791, -0.223) | visible=False
+11. objectId=Fork|+00.95|+00.77|-02.37 | type=Fork | position=(0.949, 0.768, -2.365) | visible=False
+12. objectId=Spoon|+00.98|+00.77|-02.29 | type=Spoon | position=(0.983, 0.767, -2.287) | visible=False
+
+Allowed primitive actions:
+- navigate_to_object
+- pickup_object
+
+Planning rules:
+1. Decompose the high-level goal into exactly two subtasks.
+2. Assign one subtask to Agent 0 and one subtask to Agent 1.
+3. Use only objectIds from the candidate list.
+4. Prefer assigning different object types.
+5. Minimize interference by giving different target objects to the two agents.
+6. Return JSON only.
+
+Required JSON schema:
+{
+  "goal": "...",
+  "planner_type": "prompt_engineered_json_planner",
+  "reasoning_summary": "...",
+  "assignments": [
+    {
+      "agent_id": 0,
+      "role": "...",
+      "target_object_type": "...",
+      "target_object_id": "...",
+      "subtask": "...",
+      "actions": ["navigate_to_object", "pickup_object"]
+    },
+    {
+      "agent_id": 1,
+      "role": "...",
+      "target_object_type": "...",
+      "target_object_id": "...",
+      "subtask": "...",
+      "actions": ["navigate_to_object", "pickup_object"]
+    }
+  ]
+}

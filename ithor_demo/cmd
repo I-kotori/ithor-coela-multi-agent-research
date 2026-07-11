@@ -1,0 +1,40 @@
+grep -R "ollama:qwen3:8b" ithor_coela_lite_output/*.json
+
+
+grep -R "\"module\": \"communication\"" ithor_coela_lite_output/coela_lite_trace.json
+
+
+
+grep -R "\"module\": \"planning\"" ithor_coela_lite_output/coela_lite_trace.json
+
+
+
+grep -R "\"action\": \"pickup_object\"" ithor_coela_lite_output/coela_lite_trace.json
+grep -R "\"success\": true" ithor_coela_lite_output/coela_lite_trace.json
+
+
+ollama run qwen3:8b
+
+Return JSON only: {"ok": true}
+
+
+
+conda activate ithor
+cd ~/tools/ithor_demo
+
+python ithor_coela_lite_demo.py \
+  --output ithor_coela_lite_output \
+  --scene FloorPlan1 \
+  --goal "Find and pick up two useful kitchen objects. Coordinate so each agent handles a different object." \
+  --llm-model qwen3:8b \
+  --hold-frames 8 \
+  --fps 8 \
+  --overwrite \
+  2>&1 | tee ithor_coela_lite_run.log
+
+
+
+
+  tail -n 80 ithor_coela_lite_run.log
+grep -R "ollama:qwen3:8b\\|heuristic_fallback\\|pickup success" ithor_coela_lite_output/*.json
+ls -lh ithor_coela_lite_output

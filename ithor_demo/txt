@@ -1,0 +1,8 @@
+cd ~/tools/ithor_demo
+source ~/miniconda3/etc/profile.d/conda.sh
+conda activate ithor
+
+python ithor_action_probe.py \
+  --scene FloorPlan1 \
+  --output ithor_action_probe_floorplan1.json \
+  2>&1 | tee ithor_action_probe_floorplan1.log

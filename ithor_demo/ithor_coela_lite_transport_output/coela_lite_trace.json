@@ -1,0 +1,1132 @@
+[
+  {
+    "module": "perception",
+    "agent_id": 0,
+    "observation": {
+      "agent_id": 0,
+      "visible_pickupable_objects": [
+        {
+          "objectId": "Apple|-00.47|+01.15|+00.48",
+          "objectType": "Apple",
+          "name": "Apple_3fef4551",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": -0.465,
+            "y": 1.151,
+            "z": 0.476
+          }
+        },
+        {
+          "objectId": "Cup|+00.37|+01.64|-02.58",
+          "objectType": "Cup",
+          "name": "Cup_4c1ceda2",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": 0.371,
+            "y": 1.645,
+            "z": -2.579
+          }
+        },
+        {
+          "objectId": "Bowl|+00.27|+01.10|-00.75",
+          "objectType": "Bowl",
+          "name": "Bowl_208f368b",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": 0.273,
+            "y": 1.101,
+            "z": -0.753
+          }
+        },
+        {
+          "objectId": "Bread|-00.52|+01.17|-00.03",
+          "objectType": "Bread",
+          "name": "Bread_c6b4566e",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": -0.522,
+            "y": 1.17,
+            "z": -0.028
+          }
+        },
+        {
+          "objectId": "Bottle|+01.54|+00.89|-02.54",
+          "objectType": "Bottle",
+          "name": "Bottle_4e73f712",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": 1.54,
+            "y": 0.886,
+            "z": -2.54
+          }
+        },
+        {
+          "objectId": "Book|+00.15|+01.10|+00.62",
+          "objectType": "Book",
+          "name": "Book_e5ef3174",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": 0.155,
+            "y": 1.099,
+            "z": 0.617
+          }
+        },
+        {
+          "objectId": "ButterKnife|-00.41|+01.11|-00.46",
+          "objectType": "ButterKnife",
+          "name": "ButterKnife_4ae287b7",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": -0.412,
+            "y": 1.105,
+            "z": -0.462
+          }
+        },
+        {
+          "objectId": "CreditCard|-00.46|+01.10|+00.87",
+          "objectType": "CreditCard",
+          "name": "CreditCard_5e829d70",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": -0.464,
+            "y": 1.1,
+            "z": 0.865
+          }
+        }
+      ],
+      "visible_receptacles": [
+        {
+          "objectId": "Cabinet|-01.85|+02.02|+00.38",
+          "objectType": "Cabinet",
+          "name": "Cabinet_83d77a74",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.85,
+            "y": 2.015,
+            "z": 0.38
+          }
+        },
+        {
+          "objectId": "CoffeeMachine|-01.98|+00.90|-00.19",
+          "objectType": "CoffeeMachine",
+          "name": "CoffeeMachine_19c6af8e",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.978,
+            "y": 0.9,
+            "z": -0.189
+          }
+        },
+        {
+          "objectId": "Fridge|-02.10|+00.00|+01.07",
+          "objectType": "Fridge",
+          "name": "Fridge_e92350c6",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -2.097,
+            "y": 0.0,
+            "z": 1.072
+          }
+        },
+        {
+          "objectId": "Toaster|-01.84|+00.90|+00.13",
+          "objectType": "Toaster",
+          "name": "Toaster_f30a9b32",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.835,
+            "y": 0.9,
+            "z": 0.134
+          }
+        }
+      ],
+      "held_objects": [],
+      "used_global_metadata_fallback": true
+    }
+  },
+  {
+    "module": "memory",
+    "agent_id": 0,
+    "known_objects": [
+      {
+        "objectId": "Apple|-00.47|+01.15|+00.48",
+        "objectType": "Apple",
+        "name": "Apple_3fef4551",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": -0.465,
+          "y": 1.151,
+          "z": 0.476
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783443358.764398
+      },
+      {
+        "objectId": "Cup|+00.37|+01.64|-02.58",
+        "objectType": "Cup",
+        "name": "Cup_4c1ceda2",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": 0.371,
+          "y": 1.645,
+          "z": -2.579
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783443358.7644002
+      },
+      {
+        "objectId": "Bowl|+00.27|+01.10|-00.75",
+        "objectType": "Bowl",
+        "name": "Bowl_208f368b",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": 0.273,
+          "y": 1.101,
+          "z": -0.753
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783443358.7644005
+      },
+      {
+        "objectId": "Bread|-00.52|+01.17|-00.03",
+        "objectType": "Bread",
+        "name": "Bread_c6b4566e",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": -0.522,
+          "y": 1.17,
+          "z": -0.028
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783443358.7644007
+      },
+      {
+        "objectId": "Bottle|+01.54|+00.89|-02.54",
+        "objectType": "Bottle",
+        "name": "Bottle_4e73f712",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": 1.54,
+          "y": 0.886,
+          "z": -2.54
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783443358.764401
+      },
+      {
+        "objectId": "Book|+00.15|+01.10|+00.62",
+        "objectType": "Book",
+        "name": "Book_e5ef3174",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": 0.155,
+          "y": 1.099,
+          "z": 0.617
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783443358.7644012
+      },
+      {
+        "objectId": "ButterKnife|-00.41|+01.11|-00.46",
+        "objectType": "ButterKnife",
+        "name": "ButterKnife_4ae287b7",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": -0.412,
+          "y": 1.105,
+          "z": -0.462
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783443358.7644014
+      },
+      {
+        "objectId": "CreditCard|-00.46|+01.10|+00.87",
+        "objectType": "CreditCard",
+        "name": "CreditCard_5e829d70",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": -0.464,
+          "y": 1.1,
+          "z": 0.865
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783443358.7644017
+      }
+    ]
+  },
+  {
+    "module": "perception",
+    "agent_id": 1,
+    "observation": {
+      "agent_id": 1,
+      "visible_pickupable_objects": [
+        {
+          "objectId": "Mug|-01.76|+00.90|-00.62",
+          "objectType": "Mug",
+          "name": "Mug_e7fad100",
+          "pickupable": true,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.761,
+            "y": 0.9,
+            "z": -0.621
+          }
+        },
+        {
+          "objectId": "Lettuce|-01.81|+00.97|-00.94",
+          "objectType": "Lettuce",
+          "name": "Lettuce_2d8f3ab9",
+          "pickupable": true,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.807,
+            "y": 0.974,
+            "z": -0.943
+          }
+        },
+        {
+          "objectId": "PaperTowelRoll|-02.06|+01.01|-00.81",
+          "objectType": "PaperTowelRoll",
+          "name": "PaperTowelRoll_511cdc3f",
+          "pickupable": true,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -2.063,
+            "y": 1.007,
+            "z": -0.815
+          }
+        }
+      ],
+      "visible_receptacles": [
+        {
+          "objectId": "CounterTop|-01.87|+00.95|-01.21",
+          "objectType": "CounterTop",
+          "name": "CounterTop_978a4b41",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.868,
+            "y": 0.947,
+            "z": -1.206
+          }
+        },
+        {
+          "objectId": "Cabinet|-01.85|+02.02|+00.38",
+          "objectType": "Cabinet",
+          "name": "Cabinet_83d77a74",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.85,
+            "y": 2.015,
+            "z": 0.38
+          }
+        },
+        {
+          "objectId": "CoffeeMachine|-01.98|+00.90|-00.19",
+          "objectType": "CoffeeMachine",
+          "name": "CoffeeMachine_19c6af8e",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.978,
+            "y": 0.9,
+            "z": -0.189
+          }
+        },
+        {
+          "objectId": "Fridge|-02.10|+00.00|+01.07",
+          "objectType": "Fridge",
+          "name": "Fridge_e92350c6",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -2.097,
+            "y": 0.0,
+            "z": 1.072
+          }
+        },
+        {
+          "objectId": "Mug|-01.76|+00.90|-00.62",
+          "objectType": "Mug",
+          "name": "Mug_e7fad100",
+          "pickupable": true,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.761,
+            "y": 0.9,
+            "z": -0.621
+          }
+        },
+        {
+          "objectId": "Toaster|-01.84|+00.90|+00.13",
+          "objectType": "Toaster",
+          "name": "Toaster_f30a9b32",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.835,
+            "y": 0.9,
+            "z": 0.134
+          }
+        }
+      ],
+      "held_objects": [],
+      "used_global_metadata_fallback": false
+    }
+  },
+  {
+    "module": "memory",
+    "agent_id": 1,
+    "known_objects": [
+      {
+        "objectId": "Mug|-01.76|+00.90|-00.62",
+        "objectType": "Mug",
+        "name": "Mug_e7fad100",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": -1.761,
+          "y": 0.9,
+          "z": -0.621
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783443358.764448
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94",
+        "objectType": "Lettuce",
+        "name": "Lettuce_2d8f3ab9",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": -1.807,
+          "y": 0.974,
+          "z": -0.943
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783443358.7644491
+      },
+      {
+        "objectId": "PaperTowelRoll|-02.06|+01.01|-00.81",
+        "objectType": "PaperTowelRoll",
+        "name": "PaperTowelRoll_511cdc3f",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": -2.063,
+          "y": 1.007,
+          "z": -0.815
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783443358.7644494
+      }
+    ]
+  },
+  {
+    "module": "communication",
+    "agent_id": 0,
+    "message": {
+      "agent_id": 0,
+      "round": 1,
+      "message": "I'll take the Apple and deliver it to the Fridge. You take another object and do the same.",
+      "target_object_id": "Apple|-00.47|+01.15|+00.48",
+      "target_object_type": "Apple",
+      "destination_receptacle_id": "Fridge|-02.10|+00.00|+01.07",
+      "destination_receptacle_type": "Fridge",
+      "confidence": 0.8,
+      "source": "ollama:qwen3:8b",
+      "from": 0
+    }
+  },
+  {
+    "module": "communication",
+    "agent_id": 1,
+    "message": {
+      "agent_id": 1,
+      "round": 1,
+      "message": "I'll take the Lettuce and deliver it to the CounterTop. You take the Mug and do the same.",
+      "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+      "target_object_type": "Lettuce",
+      "destination_receptacle_id": "CounterTop|-01.87|+00.95|-01.21",
+      "destination_receptacle_type": "CounterTop",
+      "confidence": 0.8,
+      "source": "ollama:qwen3:8b",
+      "from": 1
+    }
+  },
+  {
+    "module": "planning",
+    "agent_id": 0,
+    "plan": {
+      "agent_id": 0,
+      "target_object_id": "Apple|-00.47|+01.15|+00.48",
+      "target_object_type": "Apple",
+      "destination_receptacle_id": "Fridge|-02.10|+00.00|+01.07",
+      "destination_receptacle_type": "Fridge",
+      "high_level_plan": "navigate_to_object",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  },
+  {
+    "module": "planning",
+    "agent_id": 1,
+    "plan": {
+      "agent_id": 1,
+      "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+      "target_object_type": "Lettuce",
+      "destination_receptacle_id": "CounterTop|-01.87|+00.95|-01.21",
+      "destination_receptacle_type": "CounterTop",
+      "high_level_plan": "navigate_to_object",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  },
+  {
+    "agent_id": 0,
+    "module": "execution",
+    "action": "navigate_to_object",
+    "target_object_id": "Apple|-00.47|+01.15|+00.48",
+    "target_object_type": "Apple",
+    "success": true,
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.900999128818512,
+      "z": 0.5
+    },
+    "source_plan": {
+      "agent_id": 0,
+      "target_object_id": "Apple|-00.47|+01.15|+00.48",
+      "target_object_type": "Apple",
+      "destination_receptacle_id": "Fridge|-02.10|+00.00|+01.07",
+      "destination_receptacle_type": "Fridge",
+      "high_level_plan": "navigate_to_object",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  },
+  {
+    "agent_id": 0,
+    "module": "execution",
+    "action": "pickup_object",
+    "target_object_id": "Apple|-00.47|+01.15|+00.48",
+    "target_object_type": "Apple",
+    "success": true,
+    "errorMessage": "",
+    "source_plan": {
+      "agent_id": 0,
+      "target_object_id": "Apple|-00.47|+01.15|+00.48",
+      "target_object_type": "Apple",
+      "destination_receptacle_id": "Fridge|-02.10|+00.00|+01.07",
+      "destination_receptacle_type": "Fridge",
+      "high_level_plan": "navigate_to_object",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  },
+  {
+    "agent_id": 0,
+    "module": "execution",
+    "action": "navigate_to_receptacle",
+    "target_object_id": "Apple|-00.47|+01.15|+00.48",
+    "target_object_type": "Apple",
+    "destination_receptacle_id": "Fridge|-02.10|+00.00|+01.07",
+    "destination_receptacle_type": "Fridge",
+    "success": true,
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.900999128818512,
+      "z": 1.0
+    },
+    "source_plan": {
+      "agent_id": 0,
+      "target_object_id": "Apple|-00.47|+01.15|+00.48",
+      "target_object_type": "Apple",
+      "destination_receptacle_id": "Fridge|-02.10|+00.00|+01.07",
+      "destination_receptacle_type": "Fridge",
+      "high_level_plan": "navigate_to_object",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  },
+  {
+    "agent_id": 0,
+    "module": "execution",
+    "action": "put_object",
+    "target_object_id": "Apple|-00.47|+01.15|+00.48",
+    "target_object_type": "Apple",
+    "destination_receptacle_id": "Fridge|-02.10|+00.00|+01.07",
+    "destination_receptacle_type": "Fridge",
+    "success": false,
+    "errorMessage": "Target openable Receptacle is CLOSED, can't place if target is not open!",
+    "source_plan": {
+      "agent_id": 0,
+      "target_object_id": "Apple|-00.47|+01.15|+00.48",
+      "target_object_type": "Apple",
+      "destination_receptacle_id": "Fridge|-02.10|+00.00|+01.07",
+      "destination_receptacle_type": "Fridge",
+      "high_level_plan": "navigate_to_object",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  },
+  {
+    "agent_id": 1,
+    "module": "execution",
+    "action": "navigate_to_object",
+    "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+    "target_object_type": "Lettuce",
+    "success": true,
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.900999128818512,
+      "z": -1.0
+    },
+    "source_plan": {
+      "agent_id": 1,
+      "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+      "target_object_type": "Lettuce",
+      "destination_receptacle_id": "CounterTop|-01.87|+00.95|-01.21",
+      "destination_receptacle_type": "CounterTop",
+      "high_level_plan": "navigate_to_object",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  },
+  {
+    "agent_id": 1,
+    "module": "execution",
+    "action": "pickup_object",
+    "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+    "target_object_type": "Lettuce",
+    "success": true,
+    "errorMessage": "",
+    "source_plan": {
+      "agent_id": 1,
+      "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+      "target_object_type": "Lettuce",
+      "destination_receptacle_id": "CounterTop|-01.87|+00.95|-01.21",
+      "destination_receptacle_type": "CounterTop",
+      "high_level_plan": "navigate_to_object",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  },
+  {
+    "agent_id": 1,
+    "module": "execution",
+    "action": "navigate_to_receptacle",
+    "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+    "target_object_type": "Lettuce",
+    "destination_receptacle_id": "CounterTop|-01.87|+00.95|-01.21",
+    "destination_receptacle_type": "CounterTop",
+    "success": true,
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.900999128818512,
+      "z": -1.25
+    },
+    "source_plan": {
+      "agent_id": 1,
+      "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+      "target_object_type": "Lettuce",
+      "destination_receptacle_id": "CounterTop|-01.87|+00.95|-01.21",
+      "destination_receptacle_type": "CounterTop",
+      "high_level_plan": "navigate_to_object",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  },
+  {
+    "agent_id": 1,
+    "module": "execution",
+    "action": "put_object",
+    "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+    "target_object_type": "Lettuce",
+    "destination_receptacle_id": "CounterTop|-01.87|+00.95|-01.21",
+    "destination_receptacle_type": "CounterTop",
+    "success": true,
+    "errorMessage": "",
+    "source_plan": {
+      "agent_id": 1,
+      "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+      "target_object_type": "Lettuce",
+      "destination_receptacle_id": "CounterTop|-01.87|+00.95|-01.21",
+      "destination_receptacle_type": "CounterTop",
+      "high_level_plan": "navigate_to_object",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object",
+        "navigate_to_receptacle",
+        "put_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  },
+  {
+    "module": "final_perception",
+    "agent_id": 0,
+    "observation": {
+      "agent_id": 0,
+      "visible_pickupable_objects": [
+        {
+          "objectId": "Cup|+00.37|+01.64|-02.58",
+          "objectType": "Cup",
+          "name": "Cup_4c1ceda2",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": 0.371,
+            "y": 1.645,
+            "z": -2.579
+          }
+        },
+        {
+          "objectId": "Bowl|+00.27|+01.10|-00.75",
+          "objectType": "Bowl",
+          "name": "Bowl_208f368b",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": 0.273,
+            "y": 1.101,
+            "z": -0.753
+          }
+        },
+        {
+          "objectId": "Bread|-00.52|+01.17|-00.03",
+          "objectType": "Bread",
+          "name": "Bread_c6b4566e",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": -0.522,
+            "y": 1.17,
+            "z": -0.028
+          }
+        },
+        {
+          "objectId": "Bottle|+01.54|+00.89|-02.54",
+          "objectType": "Bottle",
+          "name": "Bottle_4e73f712",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": 1.54,
+            "y": 0.886,
+            "z": -2.54
+          }
+        },
+        {
+          "objectId": "Book|+00.15|+01.10|+00.62",
+          "objectType": "Book",
+          "name": "Book_e5ef3174",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": 0.155,
+            "y": 1.099,
+            "z": 0.617
+          }
+        },
+        {
+          "objectId": "ButterKnife|-00.41|+01.11|-00.46",
+          "objectType": "ButterKnife",
+          "name": "ButterKnife_4ae287b7",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": -0.412,
+            "y": 1.105,
+            "z": -0.462
+          }
+        },
+        {
+          "objectId": "CreditCard|-00.46|+01.10|+00.87",
+          "objectType": "CreditCard",
+          "name": "CreditCard_5e829d70",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": -0.464,
+            "y": 1.1,
+            "z": 0.865
+          }
+        },
+        {
+          "objectId": "DishSponge|-01.94|+00.75|-01.71",
+          "objectType": "DishSponge",
+          "name": "DishSponge_2f93679b",
+          "pickupable": true,
+          "visible": false,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.857,
+            "y": 0.145,
+            "z": -1.619
+          }
+        }
+      ],
+      "visible_receptacles": [
+        {
+          "objectId": "CounterTop|-01.87|+00.95|-01.21",
+          "objectType": "CounterTop",
+          "name": "CounterTop_978a4b41",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.868,
+            "y": 0.947,
+            "z": -1.206
+          }
+        },
+        {
+          "objectId": "Cabinet|-01.55|+00.50|+00.38",
+          "objectType": "Cabinet",
+          "name": "Cabinet_67e9cbea",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.55,
+            "y": 0.495,
+            "z": 0.38
+          }
+        },
+        {
+          "objectId": "Drawer|-01.56|+00.84|+00.20",
+          "objectType": "Drawer",
+          "name": "Drawer_8f754799",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.561,
+            "y": 0.84,
+            "z": 0.205
+          }
+        },
+        {
+          "objectId": "Floor|+00.00|+00.00|+00.00",
+          "objectType": "Floor",
+          "name": "Floor_86781be7",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "objectId": "Fridge|-02.10|+00.00|+01.07",
+          "objectType": "Fridge",
+          "name": "Fridge_e92350c6",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -2.097,
+            "y": 0.0,
+            "z": 1.072
+          }
+        },
+        {
+          "objectId": "GarbageCan|-01.94|00.00|+02.03",
+          "objectType": "GarbageCan",
+          "name": "GarbageCan_a3dd7762",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.935,
+            "y": -0.002,
+            "z": 2.029
+          }
+        },
+        {
+          "objectId": "Toaster|-01.84|+00.90|+00.13",
+          "objectType": "Toaster",
+          "name": "Toaster_f30a9b32",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.835,
+            "y": 0.9,
+            "z": 0.134
+          }
+        }
+      ],
+      "held_objects": [
+        "Apple|-00.47|+01.15|+00.48"
+      ],
+      "used_global_metadata_fallback": true
+    }
+  },
+  {
+    "module": "final_perception",
+    "agent_id": 1,
+    "observation": {
+      "agent_id": 1,
+      "visible_pickupable_objects": [
+        {
+          "objectId": "Mug|-01.76|+00.90|-00.62",
+          "objectType": "Mug",
+          "name": "Mug_e7fad100",
+          "pickupable": true,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.761,
+            "y": 0.9,
+            "z": -0.621
+          }
+        },
+        {
+          "objectId": "Lettuce|-01.81|+00.97|-00.94",
+          "objectType": "Lettuce",
+          "name": "Lettuce_2d8f3ab9",
+          "pickupable": true,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.612,
+            "y": 0.98,
+            "z": -0.513
+          }
+        },
+        {
+          "objectId": "PaperTowelRoll|-02.06|+01.01|-00.81",
+          "objectType": "PaperTowelRoll",
+          "name": "PaperTowelRoll_511cdc3f",
+          "pickupable": true,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -2.063,
+            "y": 1.007,
+            "z": -0.815
+          }
+        },
+        {
+          "objectId": "SoapBottle|-01.99|+00.90|-02.03",
+          "objectType": "SoapBottle",
+          "name": "SoapBottle_4540124e",
+          "pickupable": true,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.991,
+            "y": 0.9,
+            "z": -2.032
+          }
+        }
+      ],
+      "visible_receptacles": [
+        {
+          "objectId": "CounterTop|-01.87|+00.95|-01.21",
+          "objectType": "CounterTop",
+          "name": "CounterTop_978a4b41",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.868,
+            "y": 0.947,
+            "z": -1.206
+          }
+        },
+        {
+          "objectId": "Cabinet|-01.55|+00.50|+00.38",
+          "objectType": "Cabinet",
+          "name": "Cabinet_67e9cbea",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.55,
+            "y": 0.495,
+            "z": 0.38
+          }
+        },
+        {
+          "objectId": "Cabinet|-01.55|+00.50|-01.97",
+          "objectType": "Cabinet",
+          "name": "Cabinet_4223545f",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.55,
+            "y": 0.495,
+            "z": -1.965
+          }
+        },
+        {
+          "objectId": "CoffeeMachine|-01.98|+00.90|-00.19",
+          "objectType": "CoffeeMachine",
+          "name": "CoffeeMachine_19c6af8e",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.978,
+            "y": 0.9,
+            "z": -0.189
+          }
+        },
+        {
+          "objectId": "Drawer|-01.56|+00.33|-00.20",
+          "objectType": "Drawer",
+          "name": "Drawer_f0dcbe39",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.56,
+            "y": 0.331,
+            "z": -0.197
+          }
+        },
+        {
+          "objectId": "Mug|-01.76|+00.90|-00.62",
+          "objectType": "Mug",
+          "name": "Mug_e7fad100",
+          "pickupable": true,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.761,
+            "y": 0.9,
+            "z": -0.621
+          }
+        },
+        {
+          "objectId": "Sink|-01.90|+00.97|-01.50|SinkBasin",
+          "objectType": "SinkBasin",
+          "name": "SinkBasin_3138b92f",
+          "pickupable": false,
+          "visible": true,
+          "isPickedUp": false,
+          "position": {
+            "x": -1.908,
+            "y": 0.759,
+            "z": -1.489
+          }
+        }
+      ],
+      "held_objects": [
+        "Apple|-00.47|+01.15|+00.48"
+      ],
+      "used_global_metadata_fallback": false
+    }
+  }
+]

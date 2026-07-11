@@ -1,0 +1,11 @@
+[ok] trace: /home/nabi/tools/ithor_demo/ithor_coela_lite_kitchen_prep_v12_final/coela_lite_trace.json
+[ok] memories: /home/nabi/tools/ithor_demo/ithor_coela_lite_kitchen_prep_v12_final/agent_memories.json
+[ok] prompts: /home/nabi/tools/ithor_demo/ithor_coela_lite_kitchen_prep_v12_final/llm_prompts.json
+[ok] frames: /home/nabi/tools/ithor_demo/ithor_coela_lite_kitchen_prep_v12_final/frames
+[ok] pickup_object success: 2/2
+[ok] put_object success: 2/2
+[ok] fill_object_with_liquid success: 1/1
+[ok] slice_object success: 1/1
+[ok] toggle_object_on success: 1/1
+[ok] toggle_object_off success: 1/1
+[ok] video: /home/nabi/tools/ithor_demo/ithor_coela_lite_kitchen_prep_v12_final/ithor_coela_lite_demo.mp4

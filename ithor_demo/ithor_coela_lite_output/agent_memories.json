@@ -1,0 +1,460 @@
+[
+  {
+    "agent_id": 0,
+    "known_objects": [
+      {
+        "objectId": "Apple|-00.47|+01.15|+00.48",
+        "objectType": "Apple",
+        "name": "Apple_3fef4551",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": -0.465,
+          "y": 1.151,
+          "z": 0.476
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442501.5116434
+      },
+      {
+        "objectId": "Cup|+00.37|+01.64|-02.58",
+        "objectType": "Cup",
+        "name": "Cup_4c1ceda2",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": 0.371,
+          "y": 1.645,
+          "z": -2.579
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442501.5116441
+      },
+      {
+        "objectId": "Bowl|+00.27|+01.10|-00.75",
+        "objectType": "Bowl",
+        "name": "Bowl_208f368b",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": 0.273,
+          "y": 1.101,
+          "z": -0.753
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442501.5116444
+      },
+      {
+        "objectId": "Bread|-00.52|+01.17|-00.03",
+        "objectType": "Bread",
+        "name": "Bread_c6b4566e",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": -0.522,
+          "y": 1.17,
+          "z": -0.028
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442501.5116448
+      },
+      {
+        "objectId": "Bottle|+01.54|+00.89|-02.54",
+        "objectType": "Bottle",
+        "name": "Bottle_4e73f712",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": 1.54,
+          "y": 0.886,
+          "z": -2.54
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442564.6177883
+      },
+      {
+        "objectId": "Book|+00.15|+01.10|+00.62",
+        "objectType": "Book",
+        "name": "Book_e5ef3174",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": 0.155,
+          "y": 1.099,
+          "z": 0.617
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442501.5116456
+      },
+      {
+        "objectId": "ButterKnife|-00.41|+01.11|-00.46",
+        "objectType": "ButterKnife",
+        "name": "ButterKnife_4ae287b7",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": -0.412,
+          "y": 1.105,
+          "z": -0.462
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442501.5116458
+      },
+      {
+        "objectId": "CreditCard|-00.46|+01.10|+00.87",
+        "objectType": "CreditCard",
+        "name": "CreditCard_5e829d70",
+        "pickupable": true,
+        "visible": false,
+        "isPickedUp": false,
+        "position": {
+          "x": -0.464,
+          "y": 1.1,
+          "z": 0.865
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442501.511646
+      },
+      {
+        "objectId": "Kettle|+01.04|+00.90|-02.60",
+        "objectType": "Kettle",
+        "name": "Kettle_2aef2274",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": 1.037,
+          "y": 0.905,
+          "z": -2.596
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442564.6177897
+      },
+      {
+        "objectId": "Pan|+00.72|+00.90|-02.42",
+        "objectType": "Pan",
+        "name": "Pan_21173d15",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": 0.721,
+          "y": 0.9,
+          "z": -2.415
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442564.6177902
+      },
+      {
+        "objectId": "PepperShaker|+00.30|+00.90|-02.47",
+        "objectType": "PepperShaker",
+        "name": "PepperShaker_948fdf26",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": 0.3,
+          "y": 0.9,
+          "z": -2.465
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442564.6177905
+      },
+      {
+        "objectId": "SaltShaker|+00.35|+00.90|-02.57",
+        "objectType": "SaltShaker",
+        "name": "SaltShaker_ccf73c67",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": 0.347,
+          "y": 0.9,
+          "z": -2.567
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442564.617791
+      },
+      {
+        "objectId": "Spatula|+00.38|+00.91|-02.33",
+        "objectType": "Spatula",
+        "name": "Spatula_6667745e",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": 0.381,
+          "y": 0.907,
+          "z": -2.333
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442564.6177914
+      },
+      {
+        "objectId": "Statue|+01.96|+00.18|-02.54",
+        "objectType": "Statue",
+        "name": "Statue_32e151a8",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": 1.955,
+          "y": 0.181,
+          "z": -2.543
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442564.6177917
+      },
+      {
+        "objectId": "Vase|+01.99|+00.56|-02.49",
+        "objectType": "Vase",
+        "name": "Vase_a3ef2efe",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": 1.988,
+          "y": 0.555,
+          "z": -2.487
+        },
+        "last_seen_by": 0,
+        "last_seen_time": 1783442564.617792
+      }
+    ],
+    "held_objects": [
+      "Cup|+00.37|+01.64|-02.58",
+      "Lettuce|-01.81|+00.97|-00.94"
+    ],
+    "message_history": [
+      {
+        "agent_id": 0,
+        "round": 1,
+        "message": "I'll take the cup, you take the bowl",
+        "target_object_id": "Cup|+00.37|+01.64|-02.58",
+        "target_object_type": "Cup",
+        "confidence": 0.0,
+        "source": "ollama:qwen3:8b",
+        "from": 0
+      },
+      {
+        "agent_id": 1,
+        "round": 1,
+        "message": "I'll take the lettuce, you take the paper towel roll",
+        "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "target_object_type": "Lettuce",
+        "confidence": 0.0,
+        "source": "ollama:qwen3:8b",
+        "from": 1
+      }
+    ],
+    "action_history": [
+      {
+        "agent_id": 0,
+        "module": "execution",
+        "action": "navigate_to_object",
+        "target_object_id": "Cup|+00.37|+01.64|-02.58",
+        "target_object_type": "Cup",
+        "success": true,
+        "agent_position": {
+          "x": 0.25,
+          "y": 0.900999128818512,
+          "z": -1.75
+        },
+        "source_plan": {
+          "agent_id": 0,
+          "target_object_id": "Cup|+00.37|+01.64|-02.58",
+          "target_object_type": "Cup",
+          "high_level_plan": "navigate_to_object",
+          "primitive_actions": [
+            "navigate_to_object",
+            "pickup_object"
+          ],
+          "source": "ollama:qwen3:8b"
+        }
+      },
+      {
+        "agent_id": 0,
+        "module": "execution",
+        "action": "pickup_object",
+        "target_object_id": "Cup|+00.37|+01.64|-02.58",
+        "target_object_type": "Cup",
+        "success": true,
+        "errorMessage": "",
+        "source_plan": {
+          "agent_id": 0,
+          "target_object_id": "Cup|+00.37|+01.64|-02.58",
+          "target_object_type": "Cup",
+          "high_level_plan": "navigate_to_object",
+          "primitive_actions": [
+            "navigate_to_object",
+            "pickup_object"
+          ],
+          "source": "ollama:qwen3:8b"
+        }
+      }
+    ],
+    "current_plan": {
+      "agent_id": 0,
+      "target_object_id": "Cup|+00.37|+01.64|-02.58",
+      "target_object_type": "Cup",
+      "high_level_plan": "navigate_to_object",
+      "primitive_actions": [
+        "navigate_to_object",
+        "pickup_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  },
+  {
+    "agent_id": 1,
+    "known_objects": [
+      {
+        "objectId": "Mug|-01.76|+00.90|-00.62",
+        "objectType": "Mug",
+        "name": "Mug_e7fad100",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": -1.761,
+          "y": 0.9,
+          "z": -0.621
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783442564.6178148
+      },
+      {
+        "objectId": "Lettuce|-01.81|+00.97|-00.94",
+        "objectType": "Lettuce",
+        "name": "Lettuce_2d8f3ab9",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": -1.807,
+          "y": 0.974,
+          "z": -0.943
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783442501.5116777
+      },
+      {
+        "objectId": "PaperTowelRoll|-02.06|+01.01|-00.81",
+        "objectType": "PaperTowelRoll",
+        "name": "PaperTowelRoll_511cdc3f",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": -2.063,
+          "y": 1.007,
+          "z": -0.815
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783442564.6178157
+      },
+      {
+        "objectId": "SoapBottle|-01.99|+00.90|-02.03",
+        "objectType": "SoapBottle",
+        "name": "SoapBottle_4540124e",
+        "pickupable": true,
+        "visible": true,
+        "isPickedUp": false,
+        "position": {
+          "x": -1.991,
+          "y": 0.9,
+          "z": -2.032
+        },
+        "last_seen_by": 1,
+        "last_seen_time": 1783442564.6178162
+      }
+    ],
+    "held_objects": [
+      "Cup|+00.37|+01.64|-02.58",
+      "Lettuce|-01.81|+00.97|-00.94"
+    ],
+    "message_history": [
+      {
+        "agent_id": 0,
+        "round": 1,
+        "message": "I'll take the cup, you take the bowl",
+        "target_object_id": "Cup|+00.37|+01.64|-02.58",
+        "target_object_type": "Cup",
+        "confidence": 0.0,
+        "source": "ollama:qwen3:8b",
+        "from": 0
+      },
+      {
+        "agent_id": 1,
+        "round": 1,
+        "message": "I'll take the lettuce, you take the paper towel roll",
+        "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "target_object_type": "Lettuce",
+        "confidence": 0.0,
+        "source": "ollama:qwen3:8b",
+        "from": 1
+      }
+    ],
+    "action_history": [
+      {
+        "agent_id": 1,
+        "module": "execution",
+        "action": "navigate_to_object",
+        "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "target_object_type": "Lettuce",
+        "success": true,
+        "agent_position": {
+          "x": -1.25,
+          "y": 0.900999128818512,
+          "z": -1.0
+        },
+        "source_plan": {
+          "agent_id": 1,
+          "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+          "target_object_type": "Lettuce",
+          "high_level_plan": "pickup_object",
+          "primitive_actions": [
+            "pickup_object"
+          ],
+          "source": "ollama:qwen3:8b"
+        }
+      },
+      {
+        "agent_id": 1,
+        "module": "execution",
+        "action": "pickup_object",
+        "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+        "target_object_type": "Lettuce",
+        "success": true,
+        "errorMessage": "",
+        "source_plan": {
+          "agent_id": 1,
+          "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+          "target_object_type": "Lettuce",
+          "high_level_plan": "pickup_object",
+          "primitive_actions": [
+            "pickup_object"
+          ],
+          "source": "ollama:qwen3:8b"
+        }
+      }
+    ],
+    "current_plan": {
+      "agent_id": 1,
+      "target_object_id": "Lettuce|-01.81|+00.97|-00.94",
+      "target_object_type": "Lettuce",
+      "high_level_plan": "pickup_object",
+      "primitive_actions": [
+        "pickup_object"
+      ],
+      "source": "ollama:qwen3:8b"
+    }
+  }
+]

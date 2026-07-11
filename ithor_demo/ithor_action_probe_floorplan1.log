@@ -1,0 +1,129 @@
+[
+  {
+    "action": "PickupObject",
+    "object": {
+      "objectId": "Mug|-01.76|+00.90|-00.62",
+      "objectType": "Mug",
+      "name": "Mug_e7fad100",
+      "visible": false,
+      "pickupable": true,
+      "receptacle": true,
+      "toggleable": false,
+      "isToggled": false,
+      "sliceable": false,
+      "isSliced": false,
+      "canFillWithLiquid": true,
+      "isFilledWithLiquid": false,
+      "fillLiquid": null
+    },
+    "success": true,
+    "errorMessage": "",
+    "lastAction": "PickupObject"
+  },
+  {
+    "action": "PutObject",
+    "receptacle": {
+      "objectId": "CounterTop|+00.69|+00.95|-02.48",
+      "objectType": "CounterTop",
+      "name": "CounterTop_2fe78146",
+      "visible": false,
+      "pickupable": false,
+      "receptacle": true,
+      "toggleable": false,
+      "isToggled": false,
+      "sliceable": false,
+      "isSliced": false,
+      "canFillWithLiquid": false,
+      "isFilledWithLiquid": false,
+      "fillLiquid": null
+    },
+    "success": true,
+    "errorMessage": "",
+    "lastAction": "PutObject"
+  },
+  {
+    "action": "ToggleObjectOn",
+    "object": {
+      "objectId": "Faucet|-02.15|+00.91|-01.50",
+      "objectType": "Faucet",
+      "name": "Faucet_1000141d",
+      "visible": false,
+      "pickupable": false,
+      "receptacle": false,
+      "toggleable": true,
+      "isToggled": false,
+      "sliceable": false,
+      "isSliced": false,
+      "canFillWithLiquid": false,
+      "isFilledWithLiquid": false,
+      "fillLiquid": null
+    },
+    "success": true,
+    "errorMessage": "",
+    "lastAction": "ToggleObjectOn"
+  },
+  {
+    "action": "ToggleObjectOff",
+    "object": {
+      "objectId": "Faucet|-02.15|+00.91|-01.50",
+      "objectType": "Faucet",
+      "name": "Faucet_1000141d",
+      "visible": false,
+      "pickupable": false,
+      "receptacle": false,
+      "toggleable": true,
+      "isToggled": false,
+      "sliceable": false,
+      "isSliced": false,
+      "canFillWithLiquid": false,
+      "isFilledWithLiquid": false,
+      "fillLiquid": null
+    },
+    "success": true,
+    "errorMessage": "",
+    "lastAction": "ToggleObjectOff"
+  },
+  {
+    "action": "FillObjectWithLiquid",
+    "object": {
+      "objectId": "Mug|-01.76|+00.90|-00.62",
+      "objectType": "Mug",
+      "name": "Mug_e7fad100",
+      "visible": false,
+      "pickupable": true,
+      "receptacle": true,
+      "toggleable": false,
+      "isToggled": false,
+      "sliceable": false,
+      "isSliced": false,
+      "canFillWithLiquid": true,
+      "isFilledWithLiquid": false,
+      "fillLiquid": null
+    },
+    "success": true,
+    "errorMessage": "",
+    "lastAction": "FillObjectWithLiquid"
+  },
+  {
+    "action": "SliceObject",
+    "object": {
+      "objectId": "Lettuce|-01.81|+00.97|-00.94",
+      "objectType": "Lettuce",
+      "name": "Lettuce_2d8f3ab9",
+      "visible": false,
+      "pickupable": true,
+      "receptacle": false,
+      "toggleable": false,
+      "isToggled": false,
+      "sliceable": true,
+      "isSliced": false,
+      "canFillWithLiquid": false,
+      "isFilledWithLiquid": false,
+      "fillLiquid": null
+    },
+    "success": true,
+    "errorMessage": "",
+    "lastAction": "SliceObject"
+  }
+]
+[ok] wrote /home/nabi/tools/ithor_demo/ithor_action_probe_floorplan1.json

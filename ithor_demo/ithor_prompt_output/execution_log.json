@@ -1,0 +1,38 @@
+[
+  {
+    "agent_id": 0,
+    "action": "navigate_to_object",
+    "target_object_id": "Mug|-01.76|+00.90|-00.62",
+    "success": true,
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.900999128818512,
+      "z": -0.5
+    }
+  },
+  {
+    "agent_id": 0,
+    "action": "pickup_object",
+    "target_object_id": "Mug|-01.76|+00.90|-00.62",
+    "success": true,
+    "errorMessage": ""
+  },
+  {
+    "agent_id": 1,
+    "action": "navigate_to_object",
+    "target_object_id": "Apple|-00.47|+01.15|+00.48",
+    "success": true,
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.900999128818512,
+      "z": 0.5
+    }
+  },
+  {
+    "agent_id": 1,
+    "action": "pickup_object",
+    "target_object_id": "Apple|-00.47|+01.15|+00.48",
+    "success": true,
+    "errorMessage": ""
+  }
+]

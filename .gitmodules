@@ -1,0 +1,3 @@
+[submodule "CoELA"]
+	path = CoELA
+	url = https://github.com/UMass-Embodied-AGI/CoELA.git

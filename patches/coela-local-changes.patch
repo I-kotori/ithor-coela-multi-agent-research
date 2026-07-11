@@ -1,0 +1,39 @@
+diff --git a/tdw_mat/demo/demo_scene.py b/tdw_mat/demo/demo_scene.py
+index 9a8e874..76b04e9 100644
+--- a/tdw_mat/demo/demo_scene.py
++++ b/tdw_mat/demo/demo_scene.py
+@@ -23,8 +23,8 @@ c.add_ons.extend([camera])
+ state = ChallengeState()
+ commands = [TDWUtils.create_empty_room(12, 12),
+             {"$type": "set_screen_size",
+-             "width": 256,
+-             "height": 256}]
++             "width": 1280,
++             "height": 720}]
+ object_ids = [Controller.get_unique_id(), Controller.get_unique_id(), Controller.get_unique_id(), Controller.get_unique_id(), Controller.get_unique_id(), Controller.get_unique_id()]
+ commands.extend(Controller.get_add_physics_object(model_name="pencil_all",
+                                                   position={"x": 0, "y": 0.15, "z": -0.5},
+diff --git a/tdw_mat/tdw-gym/tdw_gym.py b/tdw_mat/tdw-gym/tdw_gym.py
+index 8431580..9142eda 100644
+--- a/tdw_mat/tdw-gym/tdw_gym.py
++++ b/tdw_mat/tdw-gym/tdw_gym.py
+@@ -775,5 +775,19 @@ class TDW(Env):
+     def close(self):
+         print('close environment ...')
++        if self.controller is not None:
++            try:
++                self.controller.communicate({"$type": "terminate"})
++            except Exception as e:
++                print(f"terminate failed: {e}")
++            try:
++                self.controller.socket.close()
++            except Exception as e:
++                print(f"socket close failed: {e}")
++            self.controller = None
++
++        os.system(f"pkill -TERM -f 'TDW.x86_64 -port {self.port}'")
++        time.sleep(1)
++        os.system(f"pkill -KILL -f 'TDW.x86_64 -port {self.port}'")
+     #    with open(os.path.join(self.save_dir, 'action.pkl'), 'wb') as f:
+     #        d = {'scene_info': self.scene_info, 'actions': self.action_list}
+     #        pickle.dump(d, f)

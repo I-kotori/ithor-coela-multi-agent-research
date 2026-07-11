@@ -1,0 +1,30 @@
+# 운영체제 및 편집기
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Python 캐시 및 가상환경
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 로컬 설치 파일
+/Miniconda3-latest-Linux-x86_64.sh
+
+# 실험 중 생성된 임시 파일과 로그
+/ithor_demo/*.log
+/ithor_demo/*.log~
+/ithor_demo/cmd
+/ithor_demo/msg
+/ithor_demo/txt
+/ithor_demo/ithor_action_probe_floorplan1.json
+
+# 반복 실험 산출물은 제외하고 최종 v18 결과만 보존
+/ithor_demo/*/
+!/ithor_demo/ithor_coela_lite_kitchen_prep_v18_1080p_slow_final/
+/ithor_demo/ithor_coela_lite_kitchen_prep_v18_1080p_slow_final/frames/
+
+# README 실행 예시의 출력 경로
+/outputs/
